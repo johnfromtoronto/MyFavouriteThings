@@ -13,6 +13,7 @@ public class CreateFavouriteActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_create_favourite);
         //new comment
+        //commet 3
     }
 
     public void onSendMessage(View view){
